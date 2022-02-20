@@ -1,0 +1,11 @@
+name: UK_CP
+channels:
+  - defaults
+dependencies:
+  - tensorflow
+  - keras
+  - seaborn
+  - scikit-learn
+  - graphviz
+  - pydot
+prefix: /Users/user/opt/anaconda3/envs/UK_CP
