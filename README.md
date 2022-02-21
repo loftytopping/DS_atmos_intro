@@ -73,7 +73,7 @@ Google's Colab [Co-laboratory](https://colab.research.google.com) is a great pla
 
 #### Practical 1 
 - [![Open notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/loftytopping/COP_AQ/blob/main/Notebook_1.ipynb)
-  - Solution notebook: [![Open notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/loftytopping/COP_AQ/blob/master/solutions/Notebook_1.ipynb)
+  - Solution notebook: [![Open notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/loftytopping/COP_AQ/blob/main/Solutions/Notebook_1.ipynb)
 #### Practical 2 
 - [![Open notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/loftytopping/COP_AQ/blob/main/Notebook_2.ipynb)
-  - Solution notebook: [![Open notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/loftytopping/COP_AQ/blob/master/solutions/Notebook_2.ipynb)
+  - Solution notebook: [![Open notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/loftytopping/COP_AQ/blob/main/Solutions/Notebook_2.ipynb)
